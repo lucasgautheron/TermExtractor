@@ -13,7 +13,7 @@ from unidecode import unidecode
 class TermExtractor:
     DEFAULT_PATTERNS = [
         ["JJ.*"],
-        ["NN.*"]
+        ["NN.*"],
         ["JJ.*", "NN.*"],
         ["JJ.*", "NN.*", "NN.*"],
         ["JJ.*", "NN", "CC", "NN.*"],

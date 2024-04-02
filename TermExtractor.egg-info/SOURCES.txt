@@ -1,0 +1,5 @@
+setup.py
+TermExtractor.egg-info/PKG-INFO
+TermExtractor.egg-info/SOURCES.txt
+TermExtractor.egg-info/dependency_links.txt
+TermExtractor.egg-info/top_level.txt

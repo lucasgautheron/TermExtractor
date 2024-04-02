@@ -7,5 +7,5 @@ setup(
     author='Lucas Gautheron',
     author_email='lucas.gautheron@gmail.com',
     description='n-gram extractore',
-    packages=find_packages(),    
+    packages=find_packages("TermExtractor"),    
 )
